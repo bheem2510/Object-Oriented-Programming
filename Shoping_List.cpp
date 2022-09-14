@@ -106,4 +106,5 @@ int main(){
 	}
 	while(x!=5);
 	return 0;
+	
 }
