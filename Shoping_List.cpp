@@ -83,6 +83,7 @@ int main(){
 		cout<<endl<<"\t5 : Quit";
 		cout<<"\n\n\tWhat is your option? ";
 		cin>>x;
+
 		
 		switch(x)
 		{
