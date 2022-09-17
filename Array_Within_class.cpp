@@ -52,6 +52,7 @@ void ITEM::remove()
 		itemPrice[i]=0;
 	}
 }
+
 //========================================================
 
 void ITEM :: displayItem(void)
