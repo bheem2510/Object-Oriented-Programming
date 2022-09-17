@@ -27,7 +27,7 @@ void ITEM::getitem(void)
 	cin>>itemPrice[count];
 	count++;
 }
-//===============================================
+//=================================================
 
 void ITEM::displaySum(void){
 	
