@@ -1,6 +1,8 @@
 #include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 int const m=50;
+
 
 class ITEM{
 	
