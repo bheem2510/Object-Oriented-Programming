@@ -12,6 +12,7 @@ class employee{
 		void putdata(void);
 };
 
+
 //=============== Getting information =================
 
 void employee::getdata(){
