@@ -17,6 +17,7 @@ class Employee{
 		void setCompany(string company){
 			Company=company;
 		}
+	
 		string getCompany(){
 			return Company;
 		}
