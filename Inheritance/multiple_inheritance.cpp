@@ -2,6 +2,7 @@
 using namespace std;
 
 class M{
+	
 	protected:
 		int m;
 	public:
