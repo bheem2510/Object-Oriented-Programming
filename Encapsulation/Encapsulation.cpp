@@ -3,6 +3,7 @@ using namespace std;
 
 class Employee{
 	private:
+	
 		string Name;
 		string Company;
 		int Age;
