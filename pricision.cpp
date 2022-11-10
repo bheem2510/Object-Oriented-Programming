@@ -8,6 +8,7 @@ int main(){
 	cout.width(10);
 	cout<<"Value";
 	cout.width(15);
+	
 	cout<<"SQRT of value"<< " \n";
 	
 	for(int i=1;i<=5;i++){
