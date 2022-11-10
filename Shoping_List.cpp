@@ -2,6 +2,7 @@
 using namespace std;
 int const m=50;
 
+
 class ITEM{
 	
 	int itemCode[m];
