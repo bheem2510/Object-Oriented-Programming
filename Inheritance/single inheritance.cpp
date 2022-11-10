@@ -24,6 +24,7 @@ class child1:public parent{
 			}
 			void disp_age(){
 				display();
+				
 				cout<<endl<<"Age is: "<<age;
 			}
 };
