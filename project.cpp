@@ -347,7 +347,8 @@ int main(void) {
 			xoffset = 50;
 			drawCarCountOnImage(rightlcarCount, imgFrame2Copy, yoffset, xoffset, directionName);
 
-			/*right to bottom*/
+			/*right to bottom*/ 
+				
 			directionName = " left:";
 			yoffset = 50;
 			xoffset = 50;
@@ -392,6 +393,7 @@ int main(void) {
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
+
 void matchCurrentFrameBlobsToExistingBlobs(std::vector<Blob> &existingBlobs, std::vector<Blob> &currentFrameBlobs) {
 
 	for (auto &existingBlob : existingBlobs) {
