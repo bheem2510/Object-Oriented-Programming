@@ -3,7 +3,8 @@
 #include<opencv2/imgproc/imgproc.hpp>
 #include<cmath>
 #include<iostream>
-#include<conio.h>           // it may be necessary to change or remove this line if not using Windows
+#include<conio.h>          
+// it may be necessary to change or remove this line if not using Windows
 
 #include "Blob.h"
 using namespace cv;
